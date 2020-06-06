@@ -23,4 +23,4 @@ Use Python visualization libraries to systematically explore a selected dataset,
 Link to the exploratory report: [Prosper Loans Analysis](https://janamalesova.github.io/Udacity-Data-Analyst-Nanodegree/P4/exploration_ProsperLoans.html)<br>
 Link to the presentation: [Prosper Loans Slide Deck](https://janamalesova.github.io/Udacity-Data-Analyst-Nanodegree/P4/)<br>
 <br>
-![certificate](https://github.com/janamalesova/Udacity-Data-Analyst-Nanodegree/blob/master/certificate.png)
+![certificate](https://janamalesova.github.io/Udacity-Data-Analyst-Nanodegree/certificate.png)
